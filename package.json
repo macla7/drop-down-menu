@@ -1,26 +1,26 @@
 {
-  "name": "project-template",
+  "name": "drop-down-menu",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": ".eslintrc.js",
   "private": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "webpack",
     "watch": "webpack --watch",
-    "start": "webpack serve --open"
+    "start": "webpack serve --open",
+    "build": "webpack"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/macla7/project-template.git"
+    "url": "git+https://github.com/macla7/drop-down-menu.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/macla7/project-template/issues"
+    "url": "https://github.com/macla7/drop-down-menu/issues"
   },
-  "homepage": "https://github.com/macla7/project-template#readme",
+  "homepage": "https://github.com/macla7/drop-down-menu#readme",
   "devDependencies": {
     "css-loader": "^6.2.0",
     "eslint": "^7.32.0",

@@ -1,0 +1,24 @@
+.DB {
+  border: 2px solid rgb(255, 0, 0);
+  width: 15rem;
+}
+
+.DB-drop {
+  padding: 1rem
+}
+
+.DB-list {
+  border: 2px solid rgba(1, 254, 237, 0.961);
+
+  li {
+    padding: 1rem;
+  }
+
+  li:hover {
+    background-color: rgba(0, 0, 0, 0.064);
+  }
+}
+
+.DB-hide {
+  display: none;
+}
